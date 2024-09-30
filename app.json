@@ -1,0 +1,18 @@
+{
+"name": "trapito - Bot ",
+"website": "",
+"description": "El Bot Mas Explosivo De WhatsApp",
+"repository": "",
+"logo": "https://i.postimg.cc/9F486Bgm/9-Cloud-us-0054-Trap-60.jpg",
+"success_url": "",
+"keywords": [
+"nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+"termux", "superbot", "multi-device", "md", "official", "javascript", "megumin-bot", "bot-megumin", "ai"],
+"image": "heroku/nodejs",
+"buildpacks": [
+{ "url": "heroku/nodejs" },
+{ "url": "" },
+{ "url": "" },
+{ "url": "" }    
+]
+}
